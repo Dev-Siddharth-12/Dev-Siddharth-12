@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sidd_12:
 Hey there! I'm Sidd_12 👋, your go-to Minecraft server expert & front-end developer!<br><br>I specialize in crafting top-tier Minecraft servers that are fully optimized for the best performance ⚡ and custom-configured to meet your unique needs. Whether it's scripting, server setup, or performance boosting, I've got you covered! 🛠️<br><br>But that’s not all! I'm also passionate about front-end development 💻✨. I create stunning websites that are user-friendly, responsive, and visually appealing!<br><br>Need a custom Minecraft server or a beautiful website? Let’s work together and make something awesome happen! 🚀
 
 
